@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-> First-year B.Tech CSE student at **DY Patil University, Pune** — building real systems, not just watching tutorials.
+> First-year B.Tech CSE student at **School Of Technology & Research Dr. Dy Patil Dnyaan Prasad Global University, Pune** — building real systems, not just watching tutorials.
 
 - 🔭 Currently building a **Chess Platform** — a full backend-driven chess engine with move validation & real-time gameplay
 - 🌱 Deep diving into **DSA with C++**, scalable backend design, and full-stack systems
