@@ -249,7 +249,6 @@ Shipping          >  perfecting
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
-**Open to SDE internships — let's build something real.**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Himanshu-kulkarni&color=58A6FF&style=flat-square&label=Profile+Views)
 
