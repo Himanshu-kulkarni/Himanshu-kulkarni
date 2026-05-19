@@ -59,6 +59,8 @@
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 **Tools**
@@ -164,6 +166,7 @@ ML-powered system for detecting manipulated video, audio, and image content usin
 | ⚡ PVG HackVerse *(24h)* | 2026 | Participant | AI Deepfake Detection System |
 | 🌐 La Trobe University *(Online)* | 2026 | Participant | Smart Air Pollution Monitor |
 | 🎪 Helix HackCarnival | 2026 | **Organizer** | Managed 50+ participants, end-to-end |
+| 🟣 ODOO Hackathon | 2026 | Participant | Appointment Booking Application |
 
 ---
 
@@ -227,9 +230,9 @@ Conducted structured workshop for 20+ junior students — semantic tags, documen
 
 I actively solve problems on:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Himanshu_2407/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kulhimanshu2407)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kulhimanshu2407)
 
 ---
 
@@ -242,6 +245,20 @@ Shipping          >  perfecting
 ```
 
 > *"The best way to learn engineering is to engineer things."*
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himanshu-kulkarni/Himanshu-kulkarni/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himanshu-kulkarni/Himanshu-kulkarni/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Himanshu-kulkarni/Himanshu-kulkarni/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
